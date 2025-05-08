@@ -1,6 +1,5 @@
 # AI Game Agent: Treasure Collector
 
-![Game Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
 
 A Python game demonstrating various AI techniques for pathfinding and decision-making in a grid-based treasure collection game. The project showcases implementations of Particle Swarm Optimization (PSO), Ant Colony Optimization (ACO), Support Vector Machines (SVM), Evolutionary Algorithms, and Neural Networks (Perceptron) as game agents.
 
@@ -106,26 +105,7 @@ screenshot.png        # Game screenshot (replace with actual image)
 
 ---
 
-## Future Enhancements
 
-- More sophisticated state representations
-- Deep Reinforcement Learning (e.g., DQN)
-- Enhanced visualizations of AI decision-making
-- Performance metrics and comparison charts
-- Configurable AI hyperparameters via UI or config file
-
----
-
-## License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-## Acknowledgements
-
-- [Pygame](https://www.pygame.org/) for game development
-- [scikit-learn](https://scikit-learn.org/) for ML algorithms
 - Tutorials and literature on AI optimization techniques
 
 ---
